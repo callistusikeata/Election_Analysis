@@ -22,6 +22,7 @@ The candidates, Diana DeGette received the highest votes, which was 73.8% of all
 
 ## Election Audit Summary
 
-This script can be modified to find the greatest number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and geography, the script can be modified to include these characteristics and the analysis can be broken down even further.
+This script can be adjusted to find the greatest number of votes using other filters like candidates, county, demographics etc.
 
-This script can also be modified to determine patterns among the characteristics. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county or geographical area.
+This script can also be adjusted to determine patterns among the characteristics. For example, test the percentage of voters by county against each candidate. This would let us see which candidate was the most popular within a geographical area.
+
